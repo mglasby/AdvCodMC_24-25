@@ -1,5 +1,7 @@
-# AdvCodMC_24-25
-Advanced Coding Masterclass 2024/2025
+
+# weather-app
+Principles of Programming 2024/2025. First collaborative project for Orik and Syailendra
+
 
 # Weather App Project
 
