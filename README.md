@@ -1,5 +1,7 @@
+
 # weather-app
 Principles of Programming 2024/2025. First collaborative project for Orik and Syailendra
+
 
 # Weather App Project
 
@@ -11,3 +13,5 @@ This is a simple Python app that fetches weather information from the OpenWeathe
    ```bash
    git clone https://github.com/your_username/weather-app.git
    cd weather-app
+
+2. Something else
